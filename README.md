@@ -1,0 +1,3 @@
+- img2img.ipynb : Image to image model of Stable diffusion utilised alongside the text to image model
+- 2_prompts.ipynb : Passing the same prompt to both the encoders of sdxl improves the quality of the generated image
+- base-refiner.ipynb : Splits the model into the base refiner model
